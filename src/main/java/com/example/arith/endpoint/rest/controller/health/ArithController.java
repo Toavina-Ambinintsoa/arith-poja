@@ -1,4 +1,4 @@
-package com.example.demo.endpoint.rest.controller.health;
+package com.example.arith.endpoint.rest.controller.health;
 
 import com.example.arith.service.ArithService;
 import lombok.AllArgsConstructor;
