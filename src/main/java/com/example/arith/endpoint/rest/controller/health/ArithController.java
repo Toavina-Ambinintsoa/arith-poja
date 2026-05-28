@@ -17,7 +17,7 @@ public class ArithController {
     return service.add(a, b);
   }
 
-  @GetMapping("/substrate")
+  @GetMapping("/substracte")
   public double subtract(@RequestParam int a, @RequestParam int b) {
     return service.subtract(a, b);
   }
