@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.example.arith.service;
 
 import static org.junit.jupiter.api.Assertions.*;
 
